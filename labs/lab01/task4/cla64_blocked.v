@@ -1,3 +1,4 @@
+`timescale 1ns/1ps
 // cla64_blocked.v
 // A practical 64-bit adder: sixteen 4-bit CLA blocks (your cla4.v),
 // chained by feeding block k's carry-out into block (k+1)'s carry-in --

@@ -1,3 +1,4 @@
+`timescale 1ns/1ps
 // cla4.v
 // (Carried forward from Task 3 -- paste in your completed, delay-annotated
 // version.)
