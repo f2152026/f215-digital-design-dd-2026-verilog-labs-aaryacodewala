@@ -1,3 +1,4 @@
+`timescale 1ns/1ps
 // FA_Gate.v
 // (Carried forward from Task 2 -- paste in your completed, delay-annotated
 // version.)
