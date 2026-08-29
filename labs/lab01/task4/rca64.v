@@ -1,3 +1,4 @@
+`timescale 1ns/1ps
 // rca64.v
 // A plain 64-bit ripple-carry adder, chaining 64 FA_Gate instances (the
 // delay-annotated version carried forward from Task 2).
